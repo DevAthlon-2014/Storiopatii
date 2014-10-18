@@ -1,4 +1,4 @@
-package net.minecraft.src;
+package main.java;
 public class ItemfireopalSword extends Item
 {
 public ItemfireopalSword(int i, EnumTmcMaterial enumtmcmaterial)
