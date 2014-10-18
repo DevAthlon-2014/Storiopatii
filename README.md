@@ -1,4 +1,0 @@
-Storiopatii
-===========
-
-Repository for Storiopatii.
